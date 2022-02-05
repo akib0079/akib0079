@@ -1,15 +1,15 @@
 <h1>Hey 👋, I'm Akib Zawayed</h1>
-<h3>A passionate full-stack web-developer from Bangladesh</h3>:bangladesh:
+<h3 >A passionate full-stack web-developer from Bangladesh</h3>:bangladesh:
 
 - 🔭 I’m currently working as a [Freelancer](https://www.fiverr.com/users/akib0079/)
 
-- 🌱 I’m currently learning **Mern-stack**:brain:
+- 🌱 I’m currently learning **Mern-stack** :brain:
 
 - 👨‍💻 All of my projects are available at [https://webdeveloperakib.tk/](https://webdeveloperakib.tk/)
 
 - 📫 How to reach me **akibzawayed0079@gmail.com**
 
-- ⚡ Fun fact **I have the ability to meet deadlines while maintaining composer**:bowtie:
+- ⚡ Fun fact **I have the ability to meet deadlines while maintaining composer** :bowtie:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
