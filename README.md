@@ -1,12 +1,7 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
-body{
-  font-family: 'Poppins', sans-serif !important;
-}
-</style> 
+
 
 ![Alt Text](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
-<h1>Hey👋, I'm Akib Zawayed</h1>
+<h1 font-family="Poppins', sans-serif">Hey👋, I'm Akib Zawayed</h1>
 <h3 style='display=inline' >A passionate full-stack web-developer from Bangladesh :bangladesh: </h3>
 
 - 🔭 I’m currently working as a [Freelancer](https://www.fiverr.com/users/akib0079/)
