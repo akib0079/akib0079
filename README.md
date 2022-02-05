@@ -1,4 +1,5 @@
-![Alt Text](https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD)
+![Alt Text]('https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD')
+
 
 <h1>Hey👋, I'm Akib Zawayed</h1>
 <h3 style='display=inline' >A passionate full-stack web-developer from Bangladesh :bangladesh: </h3>
