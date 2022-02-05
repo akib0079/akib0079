@@ -1,4 +1,4 @@
-![Alt Text](https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD)
+![Alt Text](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 
 <h1>Hey👋, I'm Akib Zawayed</h1>
