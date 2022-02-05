@@ -1,7 +1,7 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD)
 
 <h1>Hey👋, I'm Akib Zawayed</h1>
-<h3 style='display=inline' >A passionate full-stack web-developer from Bangladesh</h3>:bangladesh:
+<h3 style='display=inline' >A passionate full-stack web-developer from Bangladesh :bangladesh: </h3>
 
 - 🔭 I’m currently working as a [Freelancer](https://www.fiverr.com/users/akib0079/)
 
