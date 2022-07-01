@@ -1,6 +1,3 @@
-
-
-![Alt Text](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 <h2 font-family="Poppins', sans-serif">Hey👋, This is Akib Zawayed</h2>
 <h3 style='display=inline' >A passionate full-stack web-developer from Bangladesh :bangladesh: </h3>
 <p>A Web Designer, A Developer, and A WP-Expert.<br> Trying to make the Web Better and more Innovative in my own way🌏</p>
