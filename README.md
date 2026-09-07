@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Mern-stack** :brain:
 
-- 👨‍💻 All of my projects are available at: [https://webdeveloper-akib.netlify.app/](https://webdeveloper-akib.netlify.app/)
+- 👨‍💻 All of my projects are available at: [https://akib.avixdigital.com/)
 
 - 📫 How to reach me: **akibzawayed0079@gmail.com**
 
